@@ -1,0 +1,47 @@
+body {
+    min-height: 75rem;
+
+}
+h1 {
+    text-shadow: 2px 2px #FF0000;
+}
+
+.aboutbox {
+	box-shadow:0px 0px 20px 0px #000;
+	background-color: lightgrey;
+    width: 600px;
+    border: 25px solid black;
+    padding: 25px;
+	margin: auto;
+}
+
+ .row {
+  margin-bottom: 1rem;
+} 
+.jumbotron{
+    background-color: red;
+  padding-top: 3.5rem;
+
+}
+#home {
+    box-shadow: 0px 0px 20px 0px #000;
+    background-color: red;
+    width: 600px;
+    border: 25px solid black;
+    padding: 25px;
+    margin: auto;
+}
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
